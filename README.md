@@ -6,6 +6,6 @@
 <br>
 # 作品列表
 <br>
-<b>捏塔者版</b>
-<i>2019/04/07</i> [TSW复刻版](MTF_Towers.TSW_Remake)
+<b>捏塔者版</b><br>
+<i>2019/04/07</i> TSW复刻版 [Link](MTF_Towers.TSW_Remake)
 
