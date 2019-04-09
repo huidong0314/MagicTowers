@@ -1,0 +1,4 @@
+游戏需要安装Java
+下载地址：(Oracle官网)
+https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+点击Accept License Agreement（同意版权条款）后点击对应系统旁边的文件下载
